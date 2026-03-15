@@ -53,7 +53,7 @@ const Header = () => {
               <img 
                 src="/towntrend-logo.png" 
                 alt="TownTrend Marketing" 
-                className="h-10 w-auto object-contain"
+                className="h-16 w-auto object-contain"
               />
             </a>
           </div>

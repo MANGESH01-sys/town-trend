@@ -14,7 +14,7 @@ const Footer = () => {
               <img 
                 src="/towntrend-logo.png" 
                 alt="TownTrend Marketing" 
-                className="h-10 w-auto object-contain"
+                className="h-16 w-auto object-contain"
               />
             </div>
             <p className="text-slate-400 text-sm">

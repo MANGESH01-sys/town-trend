@@ -20,12 +20,6 @@ const Hero = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left Content */}
           <div className="text-left space-y-8">
-            <div className="inline-block">
-              <span className="px-4 py-2 bg-gradient-to-r from-emerald-500/20 to-cyan-500/20 border border-emerald-500/30 rounded-full text-emerald-400 text-sm font-medium backdrop-blur-sm">
-                Digital Marketing Agency
-              </span>
-            </div>
-            
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight">
               Grow Your Business with
               <span className="block mt-2 bg-gradient-to-r from-emerald-400 via-cyan-400 to-blue-500 bg-clip-text text-transparent">
