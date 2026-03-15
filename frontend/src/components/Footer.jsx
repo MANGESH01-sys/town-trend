@@ -10,11 +10,12 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Brand */}
           <div className="space-y-4">
-            <div className="flex items-center gap-2">
-              <div className="w-10 h-10 bg-gradient-to-r from-emerald-500 to-cyan-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">TT</span>
-              </div>
-              <span className="text-white font-bold text-xl">TownTrend</span>
+            <div className="flex items-center">
+              <img 
+                src="/towntrend-logo.png" 
+                alt="TownTrend Marketing" 
+                className="h-10 w-auto object-contain"
+              />
             </div>
             <p className="text-slate-400 text-sm">
               Digital marketing solutions that help your business grow online.
