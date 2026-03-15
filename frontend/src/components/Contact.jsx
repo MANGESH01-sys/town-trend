@@ -107,7 +107,7 @@ const Contact = () => {
             {/* Google Map */}
             <div className="h-[500px] rounded-2xl overflow-hidden shadow-2xl border border-slate-700">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59465.77237936944!2d78.46914!3d21.59488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd33c9e8a53914d%3A0xc0b6e5c5e88d5e6f!2sPandhurna%2C%20Madhya%20Pradesh%20480334!5e0!3m2!1sen!2sin!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3709.832564046373!2d78.52659677432285!3d21.592457868181086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd5afd66ffb5ebb%3A0xcb53c584e9bd2d3d!2sTown%20Trend%20Marketing%20Agency!5e0!3m2!1sen!2sin!4v1773581906262!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
