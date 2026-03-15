@@ -123,7 +123,7 @@ export const pricingPlans = [
   {
     id: 2,
     name: "Pro Plan",
-    price: "₹19,999",
+    price: "₹15,000",
     period: "/month",
     description: "Ideal for growing businesses ready to scale",
     features: [
@@ -140,7 +140,7 @@ export const pricingPlans = [
   {
     id: 3,
     name: "Business Growth Plan",
-    price: "₹34,999",
+    price: "₹19,999",
     period: "/month",
     description: "Complete digital marketing solution for established businesses",
     features: [
