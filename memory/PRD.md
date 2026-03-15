@@ -42,7 +42,7 @@ Create a modern and professional digital marketing agency website for "TownTrend
 4. **Services Section** - 7 service cards with icons (Social Media, Website Design, SEO, Ads, YouTube, Lead Gen, Chatbot)
 5. **Portfolio Section** - 4 showcase projects with results and categories
 6. **Testimonials** - 3 client testimonials with ratings
-7. **Pricing Section** - 3 pricing tiers (Basic ₹9,999, Pro ₹15,000, Business ₹19,999)
+7. **Pricing Section** - 3 pricing tiers (Basic ₹9,999, Pro ₹14,999, Business ₹19,999)
 8. **Inquiry Form** - Lead capture form with validation (frontend only, form submission MOCKED)
 9. **Contact Section** - Contact info, social links, Google Maps iframe
 10. **Footer** - Brand info, quick links, contact details, social media
@@ -75,7 +75,7 @@ Create a modern and professional digital marketing agency website for "TownTrend
 - ✅ Updated App.js with all components
 - ✅ Applied dark theme with vibrant gradients per design guidelines
 - ✅ Installed @tawk.to/tawk-messenger-react package
-- ✅ **Updated pricing:** Pro Plan ₹19,999 → ₹15,000/month, Business Growth Plan ₹34,999 → ₹19,999/month
+- ✅ **Updated pricing:** Pro Plan ₹19,999 → ₹15,000 → ₹14,999/month, Business Growth Plan ₹34,999 → ₹19,999/month
 - ✅ **Updated Google Maps:** Replaced with business listing iframe showing Town Trend Marketing Agency with ratings and reviews
 
 **Technical Notes:**

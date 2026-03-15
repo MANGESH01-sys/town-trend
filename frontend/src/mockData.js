@@ -123,7 +123,7 @@ export const pricingPlans = [
   {
     id: 2,
     name: "Pro Plan",
-    price: "₹15,000",
+    price: "₹14,999",
     period: "/month",
     description: "Ideal for growing businesses ready to scale",
     features: [
